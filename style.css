@@ -9,3 +9,7 @@ ul {
 ol {
     list-style-position: inside
 }
+
+.nav > li {
+    display: inline;
+}
